@@ -1,13 +1,10 @@
 Documento funcional tecnico.
 Apartado 1- Introduccion.
-<<<<<<< HEAD
+
 Esto está fataaaaaal
 trabaja algo!!!
-=======
-<<<<<<< HEAD
 Esto está fataaaaaaaaaaal
 Jejejejeje
-=======
 
 Apartado 2- Capitolo 2
 
@@ -15,7 +12,3 @@ Apartado 3- Capitolo 3
 
 Esto está fataaaaaaaaaaal  (Estaba fatal!!!)
 
-
-
->>>>>>> 414a82fbf97f3de0c4b46c2de6f7ba3986378ac6
->>>>>>> 712afed36024257383060d0febf22dab4716df5d
