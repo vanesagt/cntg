@@ -1,9 +1,5 @@
 Documento funcional tecnico.
 Apartado 1- Introduccion.
-<<<<<<< HEAD
-Esto está fataaaaaaaaaaal
-Jejejejeje
-=======
 
 Apartado 2- Capitolo 2
 
@@ -12,5 +8,9 @@ Apartado 3- Capitolo 3
 Esto está fataaaaaaaaaaal  (Estaba fatal!!!)
 
 
+Apartado 4- Capitolo 4
 
->>>>>>> 414a82fbf97f3de0c4b46c2de6f7ba3986378ac6
+Apartado 5- Capitolo 5
+
+Apendice 1 - Es un apendice.
+
