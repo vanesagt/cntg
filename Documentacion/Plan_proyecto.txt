@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Gran trabajo!
+=======
+Gran trabajo!
+HAbría que añadir un diagramilla de Gantt para el proyecto. Estructurada en fases.
+>>>>>>> 9833b75aae1aeedebff5f578000c494118514141

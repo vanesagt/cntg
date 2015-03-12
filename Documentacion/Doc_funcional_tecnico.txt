@@ -1,12 +1,11 @@
-Documento funcional tecnico.
+﻿Documento funcional tecnico.
 Apartado 1- Introduccion
 
 Apartado 2- Capitolo 2
 Apartado 3- Capitolo 3
 
-------------->Esto está fataaaaaaaaaaal  (Estaba fatal!!!)
-
 Apartado 4- Capitolo 4
 Apartado 5- Capitolo 5
 
-Apendice 1 - Es un apendice.
+Apéndice 1 - Es un apendice.
+Apéndice 2
