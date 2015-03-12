@@ -1,10 +1,10 @@
 Documento funcional tecnico.
 Apartado 1- Introduccion
-Jejejejeje
+
 Apartado 2- Capitolo 2
 Apartado 3- Capitolo 3
 
-------------->Esto est· fataaaaaaaaaaal  (Estaba fatal!!!)
+------------->Esto est√° fataaaaaaaaaaal  (Estaba fatal!!!)
 
 Apartado 4- Capitolo 4
 Apartado 5- Capitolo 5
