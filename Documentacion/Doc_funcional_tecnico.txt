@@ -1,4 +1,12 @@
 Documento funcional tecnico.
-Apartado 1- Introduccion.
-Esto est· fataaaaaal
-trabaja algo!!!
+Apartado 1- Introduccion
+
+Apartado 2- Capitolo 2
+Apartado 3- Capitolo 3
+
+------------->Esto est√° fataaaaaaaaaaal  (Estaba fatal!!!)
+
+Apartado 4- Capitolo 4
+Apartado 5- Capitolo 5
+
+Apendice 1 - Es un apendice.
